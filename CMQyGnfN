@@ -19,11 +19,11 @@ ___ ____ _____    ____              _
 ";
 echo $blue . "==================================";
 echo $bold . $green . "\nCoder   : php.Script Code
-Team    : INDOnimous Security Script
+Team    : Nexam Security Script
 Code    : PHP
 Version : 8.9.8.0
 Note: 
-JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
+EDIT BY MAXENCE007 \n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
